@@ -41,8 +41,6 @@ button:hover{
     background: white;
 }
 #shapes{
-    display: flex;
-    flex-wrap: wrap;
     width: 20rem;
     height: 15rem;
     padding: 7rem;
@@ -50,10 +48,9 @@ button:hover{
     border: #212e53 solid 0.005rem;
 }
 .circle{
-    cursor: pointer;
     height: 4rem;
     width: 4rem;
-    background-color:black;
+    background-color:white;
     border-radius: 50%;
     display: inline-block;
     padding: 0.8rem;
