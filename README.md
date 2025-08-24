@@ -20,3 +20,7 @@ This is a simple web game where you try to guess the correct color based on its 
 - HTML, CSS, and JavaScript.
 
 Open `colors.html` in your browser to play the game.
+
+---
+
+**Note:** The game was originally developed and modified locally in 2020. The files were added to this repository on 25th August 2025
